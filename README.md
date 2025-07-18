@@ -60,6 +60,57 @@ pip install diffusers transformers safetensors pillow flask
 
 Prompt: A beautiful sunset over a calm lake, vibrant colors, ultra realistic
 
+🌸 Aesthetic / Positive Vibes Prompts
+
+
+✨ General Beauty & Nature
+
+	1.	A beautiful sunset over a calm lake, vibrant colors, ultra realistic
+ 
+	2.	A peaceful forest path with soft sunlight filtering through trees, 8k, cinematic lighting
+ 
+	3.	A cozy cabin in snowy mountains during golden hour, photorealistic
+ 
+	4.	A sunflower field under a clear blue sky, high detail, macro photography
+ 
+	5.	A magical waterfall surrounded by glowing flowers and soft mist, fantasy realism
+ 
+
+⸻
+
+🌟 People (Positive Representation)
+
+	6.	A smiling young woman in traditional Indian attire, soft lighting, DSLR style
+ 
+	7.	A joyful child playing with soap bubbles in a park, golden hour, candid shot
+ 
+	8.	An old man with a gentle smile reading a book under a tree, peaceful atmosphere
+ 
+
+⸻
+
+🎨 Artistic / Creative
+
+	9.	A dreamlike floating island in the sky, colorful clouds, surreal art
+ 
+	10.	A fantasy city built on giant trees, glowing lights, magical realism
+ 
+	11.	A futuristic peaceful city with flying cars and greenery, sunny day, clean art style
+ 
+	12.	A serene zen garden with koi pond, bamboo trees, and a small bridge, ultra detailed
+ 
+
+⸻
+
+🌈 Wholesome Moments
+
+	13.	A happy dog running through a meadow of flowers, bright daylight
+ 
+	14.	A family having a picnic under a large oak tree, laughter, warmth, photorealistic
+ 
+	15.	A couple watching stars together with a telescope on a hill, night sky full of stars
+ 
+
 Negative Prompt: (deformed, low quality, blurry, duplicate, poorly drawn hands, bad anatomy, ugly, text, cartoon)
 
 

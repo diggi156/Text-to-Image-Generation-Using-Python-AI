@@ -85,7 +85,7 @@ Negative Prompt: (deformed, low quality, blurry, duplicate, poorly drawn hands, 
 This project uses an unfiltered AI model. Generated content depends entirely on prompts provided by the user. Use responsibly and for educational or personal purposes only.
 
 
-💻 Running the Application (For macbook Pro)
+💻 Running the Application (For Macbook Pro)
 
   cd ~/Documents/"Text to Image Generation Using Python AI"
 
